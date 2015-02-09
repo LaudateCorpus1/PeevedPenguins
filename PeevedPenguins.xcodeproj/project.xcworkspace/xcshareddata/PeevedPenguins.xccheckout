@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFC604E4-FABC-4663-9510-6DF0AFBF80BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PeevedPenguins</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>623155565EC7005D209EA77058A87F4D8C1C06B4</key>
+		<string>github.com:apushpar/PeevedPenguinsTemplate-Spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PeevedPenguins.spritebuilder/PeevedPenguins.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>623155565EC7005D209EA77058A87F4D8C1C06B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:apushpar/PeevedPenguinsTemplate-Spritebuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>623155565EC7005D209EA77058A87F4D8C1C06B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>623155565EC7005D209EA77058A87F4D8C1C06B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PeevedPenguinsTemplate-Spritebuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
